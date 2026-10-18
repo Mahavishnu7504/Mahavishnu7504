@@ -59,10 +59,26 @@ Front End Development Libraries — freeCodeCamp
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahavishnu7504&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahavishnu7504&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Mahavishnu7504&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </p>
 🐍 Contribution Activity
 <p align="center"> <img src="https://raw.githubusercontent.com/Mahavishnu7504/Mahavishnu7504/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" /> </p>
-📫 Connect With Me
-GitHub: Mahavishnu7504
-LinkedIn: Connect with me
-Portfolio: Visit my portfolio
-Email: mahavishnuarivoli@gmail.com
-<p align="center"> <i>Building intelligent systems that turn ideas into working software.</i> </p>
-⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Mahavishnu7504">
+    <img src="https://img.shields.io/badge/GitHub-Mahavishnu7504-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/maha-vishnu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://mahavishnu-resume.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mahavishnuarivoli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems that turn ideas into working software.</i>
+</p>
